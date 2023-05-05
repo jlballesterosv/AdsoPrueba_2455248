@@ -1,1 +1,2 @@
-print("Hola mundo")
+nombreVariable = 10
+print(nombreVariable)
